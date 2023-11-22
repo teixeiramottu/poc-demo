@@ -2,7 +2,7 @@
   "posts": [
     {
       "id": 1,
-      "title": "hello"
+      "code": "123456"
     }
   ],
   "profile": {
